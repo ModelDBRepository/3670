@@ -175,6 +175,7 @@ assign_synapses(1)			// assign value (in uS) to each synapse
 objectvar RG,Pulse[ncells]			// create object variables
 
 RG = new Random()				// create random generator
+RG.Random123()
 
 for (i=0; i<ncells; i=i+1) {
 	print "defining current pulse in RE[",i,"]"
