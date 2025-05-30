@@ -100,7 +100,8 @@ Destexhe@iaf.cnrs-gif.fr
 ModelDB-Note: This model updated for NEURON version 4.3.1 and higher.
 
 10/2007 AD, better synaptic mechanisms using counters
-20120106: changed mod files for better solve methods (avoid euler)
+
+1/6/2012 changed mod files for better solve methods (avoid euler)
 as per web page [http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592](http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592)
 
 5/27/2025 Standardized to Markdown.
