@@ -1,13 +1,13 @@
 # NEURON Tutorial for Implementing Simulations of Networks of Thalamic Reticular Neurons
 
-Alain Destexhe
-Laboratory for Computational Neuroscience
-Unité de Neurosciences Intégratives et Computationnelles (UNIC)
-Centre National de la Recherche Scientifique (CNRS)
+Alain Destexhe  
+Laboratory for Computational Neuroscience  
+Unité de Neurosciences Intégratives et Computationnelles (UNIC)  
+Centre National de la Recherche Scientifique (CNRS)  
 91198 Gif-sur-Yvette, France
 
-Formerly from (when this work was created):
-Department of Physiology, Laval University,
+Formerly from (when this work was created):  
+Department of Physiology, Laval University,  
 Quebec G1K 7P4, Canada
 
 Destexhe@iaf.cnrs-gif.fr
@@ -25,8 +25,8 @@ This model studies the genesis of 10Hz oscillations by inhibitory networks of RE
 
 The models given here are described in detail in the following paper:
 
-Destexhe, A., Contreras, D., Sejnowski, T.J. and Steriade, M.
-A model of spindle rhythmicity in the isolated thalamic reticular nucleus.
+Destexhe, A., Contreras, D., Sejnowski, T.J. and Steriade, M.  
+A model of spindle rhythmicity in the isolated thalamic reticular nucleus.  
 *Journal of Neurophysiology*, 72: 803-818, 1994.
 
 A postscript version of this paper, including figures, is available on internet at
@@ -84,10 +84,10 @@ For more information about how to get NEURON and how to install it, please refer
 
 For further information, please contact:
 
-Alain Destexhe
-Laboratory for Computational Neuroscience
-Unité de Neurosciences Intégratives et Computationnelles (UNIC)
-Centre National de la Recherche Scientifique (CNRS)
+Alain Destexhe  
+Laboratory for Computational Neuroscience  
+Unité de Neurosciences Intégratives et Computationnelles (UNIC)  
+Centre National de la Recherche Scientifique (CNRS)  
 91198 Gif-sur-Yvette, France
 
 Destexhe@iaf.cnrs-gif.fr
@@ -99,8 +99,8 @@ Destexhe@iaf.cnrs-gif.fr
 
 ModelDB-Note: This model updated for NEURON version 4.3.1 and higher.
 
-10/2007: AD, better synaptic mechanisms using counters
+10/2007 AD, better synaptic mechanisms using counters
 20120106: changed mod files for better solve methods (avoid euler)
 as per web page [http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592](http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592)
 
-5/27/2025: Standardized to Markdown.
+5/27/2025 Standardized to Markdown.
