@@ -94,15 +94,13 @@ Destexhe@iaf.cnrs-gif.fr
 [http://cns.iaf.cnrs-gif.fr/Main.html](http://cns.iaf.cnrs-gif.fr/Main.html)
 
 ---
-
+## Changelog
 7/11/2005 this model updated to close windows and reopen a run control window between simulations.
 
 ModelDB-Note: This model updated for NEURON version 4.3.1 and higher.
 
-10-2007: AD, better synaptic mechanisms using counters
+10/2007: AD, better synaptic mechanisms using counters
 20120106: changed mod files for better solve methods (avoid euler)
 as per web page [http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592](http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592)
 
----
-
-2025-05-27 – Standardized to Markdown.
+5/27/2025: Standardized to Markdown.
